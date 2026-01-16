@@ -46,18 +46,12 @@ The project covers the full analytics pipeline:
 
 ---
 
-## Dashboard Pages
-
-### 1. Executive Overview
+## Dashboard Preview
+### Executive Overview
 ![Overview](images/overview.png)
 
-### 2. Sales Breakdown
+### Sales Breakdown
 ![Breakdown](images/breakdown.png)
 
-### 3. Deep Dive Analysis
-![Deep Dive](images/deep_dive.png)
-
----
-
-## Dashboard Preview
-Screenshots will be added below.
+### Decomposition Tree
+![Decomposition](images/decomposition.png)
