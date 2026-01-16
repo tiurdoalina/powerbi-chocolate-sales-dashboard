@@ -54,4 +54,4 @@ The project covers the full analytics pipeline:
 ![Breakdown](images/breakdown.png)
 
 ### Decomposition Tree
-![Decomposition](images/decomposition.png)
+![Deep dive](images/deep_dive.png)
