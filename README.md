@@ -1,52 +1,51 @@
-# Chocolate Sales Dashboard (Power BI)
+# Дашборд продаж шоколада (Power BI)
 
-## Project Overview
-End-to-end analytical project focused on global chocolate sales analysis
-from 2022 to 2024.
+## Обзор проекта
+End-to-end аналитический проект, посвященный анализу мировых продаж шоколада за период 2022-2024 гг.
 
-The project covers the full analytics pipeline:
-- Raw data sourcing from Kaggle
-- Data transformation and aggregation using SQL (MySQL Workbench)
-- Analytical data modeling
-- Interactive dashboard development in Power BI
-
----
-
-## Data
-- Source: Public Chocolate Sales Dataset (Kaggle)
-- Initial format: CSV
-- Data transformation: SQL (MySQL Workbench)
-- Final layer loaded into Power BI
+Проект охватывает полный цикл аналитики данных:
+- Поиск и загрузка исходных данных из Kaggle
+- Очистка, трансформация и агрегация данных с использованием SQL (MySQL Workbench)
+- Подготовка аналитической модели
+- Разработка интерактивного дашборда в Power BI
 
 ---
 
-## Key Metrics
-- Total Revenue
-- Revenue YoY %
-- Revenue MoM %
-- Boxes Shipped
-- Average Deal Size
+## Данные
+- Источник: открытый датасет продаж шоколада (Kaggle)
+- Исходный формат: CSV
+- Обработка данных: SQL (MySQL Workbench)
+- Агрегированный и подготовленный слой данных загружен в Power BI
 
 ---
 
-## Techniques Used
-- Star schema data model
-- DAX measures (YoY, MoM)
-- KPI cards
-- Top N analysis
+## Ключевые метрики
+- Общая выручка (Total Revenue)
+- Изменение выручки год к году (YoY %)
+- Изменение выручки месяц к месяцу (MoM %)
+- Количество отгруженных коробок (Boxes Shipped)
+- Средний размер сделки (Average Deal Size)
+
+---
+
+## Использованные техники
+- Star schema для модели данных
+- DAX-меры для расчета YoY и MoM
+- KPI-карточки
+- Top-N анализ
 - Decomposition Tree
-- Interactive slicers (Year, Month)
+- Интерактивные срезы по году и месяцу
 
 ---
 
-## Tools
+## Инструменты
 - Power BI Desktop
 - SQL (MySQL Workbench)
 - DAX
 
 ---
 
-## Dashboard Preview
+## Превью дашборда
 ### Executive Overview
 ![Overview](images/overview.png)
 
