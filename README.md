@@ -50,7 +50,7 @@ End-to-end аналитический проект, посвященный ан�
 ![Overview](images/overview.png)
 
 ### Sales Breakdown
-![Breakdown](images/breakdown.png)
+![Breakdown](images/deep_dive.png)
 
 ### Decomposition Tree
-![Deep dive](images/deep_dive.png)
+![Deep dive](images/breakdown.png)
